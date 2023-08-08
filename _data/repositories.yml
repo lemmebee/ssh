@@ -2,7 +2,7 @@ github_users:
   - ehabsfeki
 
 github_repos:
-  - ehabsfeki/lazyfy
   - ehabsfeki/awesome-eyes
-  - ehabsfeki/control-ec2
+  - ehabsfeki/lazyfy
   - ehabsfeki/deploy-nginx
+  - ehabsfeki/control-ec2
