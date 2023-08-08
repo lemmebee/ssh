@@ -3,6 +3,6 @@ github_users:
 
 github_repos:
   - ehabsfeki/awesome-eyes
-#   - ehabsfeki/lazyfy
-#   - ehabsfeki/deploy-nginx
-#   - ehabsfeki/control-ec2
+  - ehabsfeki/lazyfy
+  - ehabsfeki/deploy-nginx
+  - ehabsfeki/control-ec2
