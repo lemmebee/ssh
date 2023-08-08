@@ -8,8 +8,8 @@ profile:
   align: right
   image: e____.png
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Lyon, France</p>
+  # address: >
+  #   <p>Lyon, France</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
