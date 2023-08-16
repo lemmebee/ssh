@@ -17,9 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Software Engineer that is passionate about building.
-Nerdy about DevOps!
+Hey! I'm a Software Engineer who is passionate about writing code and thinking about how things work. Nerdy at the moment about the realm of DevOps! But beyond the lines of code and terminal screens, I hold my breath and dive as deep as I can in the sea - Please don't judge me by only my glasses.
 
+<h1 class="post-title">Latest Projects</h1>
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}
