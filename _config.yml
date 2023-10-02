@@ -52,7 +52,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -79,7 +79,7 @@ linkedin_username: ehab-elfeki-137025148
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: +33612033628
+# whatsapp_number: +33612033628
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
