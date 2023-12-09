@@ -1,8 +1,8 @@
 github_users:
-  - ehabsfeki
+  - lemmebee
 
 github_repos:
-  - ehabsfeki/awesome-eyes
-  - ehabsfeki/lazyfy
-  - ehabsfeki/deploy-nginx
-  - ehabsfeki/control-ec2
+  - lemmebee/lazyfy
+  - lemmebee/awesome-eyes
+  - lemmebee/deploy-nginx
+  - lemmebee/control-ec2
