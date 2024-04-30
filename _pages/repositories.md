@@ -38,9 +38,7 @@ nav_order: 3
 {% if site.data.repositories.github_repos %}
 <div class="repositories row">
   {% for repo in site.data.repositories.github_repos %}
-    <div class="col-md-6">
       {% include repository/repo.html repository=repo %}
-    </div>
   {% endfor %}
 </div>
 {% endif %}
